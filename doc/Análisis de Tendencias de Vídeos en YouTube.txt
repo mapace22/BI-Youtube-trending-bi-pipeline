@@ -1,0 +1,38 @@
+Proyecto: Análisis de Tendencias de Vídeos en YouTube
+Autor: Marcel Andrés Palma Céspedes
+Fecha: 03/08/2025
+
+==================================================
+CONTENIDO DEL ARCHIVO ZIP
+==================================================
+
+Este archivo ZIP contiene todos los entregables para el proyecto de curso "Un estudio de caso analítico real".
+
+1.  trending_by_time.csv:
+    El conjunto de datos original que contiene el historial de tendencias de videos de YouTube, utilizado como fuente de datos para el dashboard en Tableau.
+
+2.  Presentacion_Analisis_YouTube.pdf:
+    Una presentación en formato PDF que resume los hallaziales clave del análisis, incluyendo:
+    - Las categorías más populares a nivel global y en Estados Unidos.
+    - La distribución de la actividad por regiones.
+    - Un análisis estratégico de categorías (Análisis de Cuadrantes).
+    - Las conclusiones generales del estudio.
+
+3.  readme.txt (este archivo):
+    Manual de instrucciones rápido que describe el contenido del paquete y proporciona el enlace directo al dashboard interactivo.
+
+
+==================================================
+ENLACE AL DASHBOARD INTERACTIVO
+==================================================
+
+Para explorar los datos de forma interactiva, por favor, utiliza el siguiente enlace para acceder al dashboard publicado en Tableau Public:
+
+https://public.tableau.com/views/sprint_12_tripleten/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+==================================================
+INSTRUCCIONES ADICIONALES
+==================================================
+
+- El dashboard permite filtrar los datos por región y por fecha de tendencia para un análisis más detallado.
+- La presentación en PDF contiene los insights y respuestas a las preguntas de negocio planteadas en el proyecto.
+- No se requiere ninguna instalación de software adicional para visualizar el dashboard, ya que está alojado en la nube de Tableau Public.
